@@ -1,3 +1,3 @@
 # hello-word
 
-I just wanne to learn more! 
+I just wanne learn more! 
